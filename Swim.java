@@ -1,3 +1,5 @@
+package exercice;
+
 public interface Swim {
 
     void dive();

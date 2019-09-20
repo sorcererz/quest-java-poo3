@@ -1,3 +1,5 @@
+package exercice;
+
 public class Penguin extends Bird implements Swim {
 
     private boolean swimming;

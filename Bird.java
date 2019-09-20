@@ -1,3 +1,5 @@
+package exercice;
+
 public abstract class Bird {
   
     // attributs  
